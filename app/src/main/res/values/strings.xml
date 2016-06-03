@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Laboratoire GSB</string>
+
+
+    <!-- activity_accueil-->
+    <string name="acc_btnentrer"> J\'accede au contenu </string>
+    <string name="acc_titre">Galaxy Swiss Bourdin</string>
+    <string name="acc_explication"> Bienvenue sur l\'application Android pour Galaxy Swiss Bourdin! Cette application necessite une connexion à internet. Bonne visite !</string>
+
+    <!-- Choix service-->
+    <string name="ch_titre">Choix du service</string>
+    <string name="ch_btnlistepraticiens">Liste des praticiens</string>
+    <string name="ch_btnlistemedicaments">Liste des medicaments</string>
+    <string name="ch_btnlistevisiteurs">Liste des visiteurs</string>
+    <string name="ch_btnlistepatients">Liste des Patients</string>
+
+    <!-- Liste Départements -->
+    <string name="ld_titre">Choix du départements</string>
+
+    <!-- Liste Praticiens -->
+    <string name="lp_titre"> Choix du praticiens</string>
+    <string name="lp_numdep">Vous avez choisi(e) le département</string>
+
+
+</resources>
