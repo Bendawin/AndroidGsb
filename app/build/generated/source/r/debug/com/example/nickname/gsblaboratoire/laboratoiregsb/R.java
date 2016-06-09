@@ -1652,12 +1652,12 @@ containing a value of this type.
         public static final int decor_content_parent=0x7f0c003f;
         public static final int default_activity_button=0x7f0c0027;
         public static final int disableHome=0x7f0c000c;
-        public static final int editText=0x7f0c0061;
         public static final int edit_query=0x7f0c0043;
         public static final int end=0x7f0c001a;
         public static final int end_padder=0x7f0c006e;
         public static final int expand_activities_button=0x7f0c0025;
         public static final int expanded_menu=0x7f0c0038;
+        public static final int filterBox=0x7f0c0061;
         public static final int home=0x7f0c0004;
         public static final int homeAsUp=0x7f0c000d;
         public static final int icon=0x7f0c0029;
@@ -1818,7 +1818,8 @@ containing a value of this type.
         public static final int ch_titre=0x7f06001c;
         public static final int ld_titre=0x7f06001d;
         public static final int lp_numdep=0x7f06001e;
-        public static final int lp_titre=0x7f06001f;
+        public static final int lp_recherche=0x7f06001f;
+        public static final int lp_titre=0x7f060020;
         public static final int status_bar_notification_info_overflow=0x7f060013;
     }
     public static final class style {
